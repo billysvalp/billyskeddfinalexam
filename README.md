@@ -9,3 +9,5 @@ The app should have the following properties:
 
 The plus button increments the level, causing the battery indicator to appear more full.
 The minus button decrements the level, causing the indicator to empty one level.
+
+![Battery App Demo](demo/bskeddfinaldemo.gif)
